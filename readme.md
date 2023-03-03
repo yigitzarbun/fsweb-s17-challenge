@@ -9,6 +9,14 @@ Projeyi forklayın ve clonlayın. Tamamladığınızda da pushlayın.
 
 Aşağıda örnekleri verilen (aklınıza gelen başka bir site de olabilir) popüler web sitelerinden birini seçin ve veritabanının nasıl olabileceğini düşünün.
 
+sahibinden.com
+getir.com
+hepsiburada.com
+twitter.com
+milliyet.com
+macrumors.com
+
+
 [ ] Bu tabloların tasarımını online olarak veya bilgisayarınızda bir yazılım kullanarak dizayn ediniz. 
     * tüm veritabanını yapmak zaman alabilir :) bunun için 6-10 tabloyu geçmeyin
     ** her tabloda maksimum 6 alan olsun.
