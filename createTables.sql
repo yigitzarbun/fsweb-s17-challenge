@@ -1,0 +1,2 @@
+-- Tasarımını yaptığınız tabloları oluşturan sql ifadeleri buraya yazınız.
+-- veri tiplerine, nullable olma durumuna, default değerine ve tablolar arası foreign key kullanımına dikkat.
